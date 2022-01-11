@@ -1,0 +1,2 @@
+# scottishmeta
+Scottishmeta coin
